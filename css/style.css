@@ -1,0 +1,19 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.grid-example{
+
+  border-radius: 10px;
+  margin: 50px auto;
+  padding: 10px;
+}
+
+.tabla{
+
+  margin: 20px auto;
+}
